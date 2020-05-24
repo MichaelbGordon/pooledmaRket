@@ -1,0 +1,14 @@
+Package: pooledmaRket
+Type: Package
+Title: Contains Data from Four Replication Forecasting Projects
+Version: 0.1.0
+Author: Michael Gordon
+Maintainer: Michael Gordon <m.b.gordon@massey.ac.nz>
+Description: This package contains data of human forecasts about the outcomes 
+    of 103 replicated studies from four different replication projects. The forecasts take the form of prediction market
+    trades and survey responses. ALso included is the outcomes of the replication and general study information
+License: CC0
+Encoding: UTF-8
+LazyData: true
+Depends: 
+    R (>= 2.10)
