@@ -21,10 +21,10 @@ The systematic replication studies are:
 
 And the accompanying prediction markets are
 
-*RPP - Dreber et al 2015 (PNAS)
-*EERP - Camerer et al 2016 (Science)
-*SSRP - Camerer et al 2018 (Nat Human Behav)
-*ML2 - Forsell et al 2018
+* RPP - Dreber et al 2015 (PNAS)
+* EERP - Camerer et al 2016 (Science)
+* SSRP - Camerer et al 2018 (Nat Human Behav)
+* ML2 - Forsell et al 2018
 
 In the dataset the prediction markets are referred to as 'projects'. I would recommend reading the above studies before using the package. The studies will explain the methodologies and provide context to the data.
 
