@@ -11,7 +11,7 @@
 survey_data
 }
 \description{
-A dataset containing each response that was made in 103 prediction markets which
+A dataset containing each response that was made in 103 surveys which
 were attempting to predict the outcome of direct replications. See; (Camerer et al., 2016, 2018; Dreber et al., 2015; Forsell et al., 2018)
 }
 \keyword{datasets}
