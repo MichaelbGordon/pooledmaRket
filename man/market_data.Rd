@@ -14,7 +14,7 @@ A data frame with 7885 rows and 10 variables:
   \item{study_id}{Unqiue (within proiject), identifier for the study the market is trading on}
   \item{transaction_type}{buy or sell (did the trade move the price up or down)}
   \item{transaction_cost}{Number of points (trading currency) used in trade (NA in SSRP due to methodology differences)}
-  \item{transaction_shares}{Number of shares purchased in trade(NA in SSRP due to methodology differences)}
+  \item{transaction_shares}{Number of shares purchased in trade (NA in SSRP due to methodology differences)}
   \item{net_shares}{Total net shares for each study}
   ...
 }
