@@ -1,0 +1,104 @@
+project,finding_id,cite,doi,replicated, original_pval 
+RPP,1,Richeson & Trawalter (2008),https://doi.org/10.1111/j.1467-9280.2008.02052.x,0, 0.0230000000000000 
+RPP,2,Rule & Ambady (2008),https://doi.org/10.1111/j.1467-9280.2008.02054.x,0,  p < 0.05  
+RPP,3,Morris & Still (2008),https://doi.org/10.1037/0278-7393.34.1.146,0,  p < 0.005  
+RPP,4,Shnabel & Nadler (2008) ,https://doi.org/10.1037/0022-3514.94.1.116,0,  p < 0.05  
+RPP,5,Correll (2008),https://doi.org/10.1037/0022-3514.94.1.48,0,  p < 0.02  
+RPP,6,"Fischer, Greitemeyer & Frey (2008)",https://doi.org/10.1037/0022-3514.94.3.382,0, 0.0200000000000000 
+RPP,7,Alter & Oppenheimer (2008),https://doi.org/10.1111/j.1467-9280.2008.02062.x,0, 0.0500000000000000 
+RPP,8,Mirman & Magnuson (2008),https://doi.org/10.1037/0278-7393.34.1.65,1,  p < 0.001  
+RPP,9,"Estes, Verges & Barsalou (2008)",https://doi.org/10.1111/j.1467-9280.2008.02051.x,0, 0.0040000000000000 
+RPP,10,"Nairne, Pandeirada,  & Thompson (2008)",https://doi.org/10.1111/j.1467-9280.2008.02064.x,1, 0.0500000000000000 
+RPP,11,White (2008),https://doi.org/10.1037/0278-7393.34.1.204,1,  p < 0.001  
+RPP,12,Pacton & Perruchet (2008),https://doi.org/10.1037/0278-7393.34.1.80,1,  p < 0.01  
+RPP,13,Pleskac (2008),https://doi.org/10.1037/0278-7393.34.1.167,0,  p < 0.05  
+RPP,14,Masicampo & Baumeister (2008),https://doi.org/10.1111/j.1467-9280.2008.02077.x,0, 0.0230000000000000 
+RPP,15,"Janssen, Alario, & Caramazza (2008)",https://doi.org/10.1111/j.1467-9280.2008.02070.x,0,  p < 0.06  
+RPP,16,"Henderson, de Liver & Gollwitzer (2008)",https://doi.org/10.1037/0022-3514.94.3.396,0,  p < 0.05  
+RPP,17,"Turk-Browne, Isola, Scholl & Treat (2008)",https://doi.org/10.1037/0278-7393.34.2.399,1, 0.0230000000000000 
+RPP,18,"Vul, Nieuwenstein & Kanwisher (2008)",https://doi.org/10.1111/j.1467-9280.2008.02046.x,1,  p < 0.00001  
+RPP,19,Vohs & Schooler (2008),https://doi.org/10.1111/j.1467-9280.2008.02045.x,0,  p < 0.01  
+RPP,20,"Fischer, Schulz-Hardt & Frey (2008)",https://doi.org/10.1037/0022-3514.94.2.94.2.231,1, 0.0010000000000000 
+RPP,21,Bressan & Stranieri (2008),https://doi.org/10.1111/j.1467-9280.2008.02060.x,0, 0.0080000000000000 
+RPP,22,"Sahakyan, Delaney & Waldum (2008)",https://doi.org/10.1037/0278-7393.34.2.408,0,  p < 0.05  
+RPP,23,LoBue & DeLoache (2008),https://doi.org/10.1111/j.1467-9280.2008.02081.x,0,  p < 0.01  
+RPP,24,Nurmsoo & Bloom (2008),https://doi.org/10.1111/j.1467-9280.2008.02069.x,0, 0.0040000000000000 
+RPP,25,"Lau, Kay & Spencer (2008)",https://doi.org/10.1111/j.1467-9280.2008.02040.x,0, 0.0184000000000000 
+RPP,26,Stanovich & West (2008),https://doi.org/10.1037/0022-3514.94.4.672,0,  p < 0.001  
+RPP,27,Lemay & Clark (2008),https://doi.org/10.1037/0022-3514.94.4.647,0,  p < 0.05  
+RPP,28,McCrea (2008),https://doi.org/10.1037/0022-3514.95.2.274,1,  p < 0.05  
+RPP,29,"Halevy, Bornstein & Sagiv (2008)",https://doi.org/10.1111/j.1467-9280.2008.02100.x,1,  p < 0.00001  
+RPP,30,Yap et al. (2008),https://doi.org/10.1037/0278-7393.34.3.495,1, 0.0300000000000000 
+RPP,31,Koo & Fishbach (2008),https://doi.org/10.1037/2333-8113.1.S.73,0,  p < 0.01  
+RPP,32,Schmidt & Besner (2008),https://doi.org/10.1037/0278-7393.34.3.514,1, 0.0280000000000000 
+RPP,33,"Dodson, Darragh & Williams (2008)",https://doi.org/10.1037/0278-7393.34.3.460,0,  p < 0.001  
+RPP,34,Fiedler (2008),https://doi.org/10.1037/0278-7393.34.1.186,1,  p < 0.001  
+RPP,35,"Berry, Shanks & Henson (2008)",https://doi.org/10.1037/0278-7393.34.1.97,1, 0.0020000000000000 
+RPP,36,"Tamir, Mitchell & Gross (2008)",https://doi.org/10.1111/j.1467-9280.2008.02088.x,1,  p < 0.001  
+RPP,37,Liefooghe et al. (2008),https://doi.org/10.1037/0278-7393.34.3.478,0,  p < 0.05  
+RPP,38,Farris et al. (2008),https://doi.org/10.1111/j.1467-9280.2008.02092.x,0,  p < 0.001  
+RPP,39,Purdie-Vaughns et al. (2008),https://doi.org/10.1037/0022-3514.94.4.615,0, 0.0010000000000000 
+RPP,40,"Bassok, Pedigo & Oskarsson (2008)",https://doi.org/10.1037/0278-7393.34.2.343,1,  p < 0.001  
+EERP,41,Abeler et al. (2011),https://doi.org/10.1257/aer.101.2.470,0, 0.0460000000000000 
+EERP,42,Ambrus and Greiner (2012),https://doi.org/10.1257/aer.102.7.3317,1, 0.0570000000000000 
+EERP,43,Bartling et al. (2012),https://doi.org/10.1257/aer.102.2.834,1, 0.0070000000000000 
+EERP,44,Charness and Dufwenberg (2011),https://doi.org/10.1257/aer.101.4.1211,1, 0.0100000000000000 
+EERP,45,Chen and Chen (2011),https://doi.org/10.1257/aer.101.6.2562,0, 0.0330000000000000 
+EERP,46,de Clippel et al. (2014),https://doi.org/10.1257/aer.104.10.2975,1, 0.0010000000000000 
+EERP,47,Duffy and Puzzello (2014),https://doi.org/10.1257/aer.104.6.1735,0, 0.0100000000000000 
+EERP,48,Dulleck et al. (2011),https://doi.org/10.1257/aer.101.2.526,1, 0.0001000000000000 
+EERP,49,Fehr et al. (2013),https://doi.org/10.1257/aer.103.4.1325,1, 0.0110000000000000 
+EERP,50,Friedman and Oprea (2012),https://doi.org/10.1257/aer.102.1.337,1, 0.0000000000400000 
+EERP,51,Fudenberg et al. (2012),https://doi.org/10.1257/aer.102.2.720,1, 0.0010000000000000 
+EERP,52,Huck et al. (2011),https://doi.org/10.1257/aer.101.2.819,0, 0.0039000000000000 
+EERP,53,Ifcher and Zarghamee (2011),https://doi.org/10.1257/aer.101.7.3109,0, 0.0310000000000000 
+EERP,54,Kessler and Roth (2012),https://doi.org/10.1257/aer.102.5.2018,1, 0.0000000000000000 
+EERP,55,Kirchler et al (2012),https://doi.org/10.1257/aer.102.2.865,1, 0.0160000000000000 
+EERP,56,Kogan et al. (2011),https://doi.org/10.1257/aer.101.2.927,1, 0.0000260000000000 
+EERP,57,Kuziemko et al. (2014),https://doi.org/10.1093/qje/qjt035,0, 0.0700000000000000 
+EERP,58,Ericson and Fuster (2011),https://doi.org/10.1093/qje/qjr034,0, 0.0300000000000000 
+SSRP,59,Ackerman et al. (2010),https://doi.org/10.1126/science.1189993,0, 0.0490000000000000 
+SSRP,60,Aviezer et al. (2012),https://doi.org/10.1126/science.1224313,1, 0.0000000015510000 
+SSRP,61,Balafoutas and Sutter (2012),https://doi.org/10.1126/science.1211180,1, 0.0180000000000000 
+SSRP,62,Derex et al. (2013),https://doi.org/10.1038/nature12774,1, 0.0000540000000000 
+SSRP,63,Duncan et al. (2012),https://doi.org/10.1126/science.1221936,1, 0.0042000000000000 
+SSRP,64,Gervais and Norenzayan (2012),https://doi.org/10.1126/science.1215647,0, 0.0290000000000000 
+SSRP,65,Gneezy et al. (2014),https://doi.org/10.1126/science.1253932,1, 0.0027000000000000 
+SSRP,66,Hauser et al. (2014),https://doi.org/10.1038/nature13530,1, 0.0000000001427000 
+SSRP,67,Janssen et al. (2010),https://doi.org/10.1126/science.1183532,1, 0.0000000083620000 
+SSRP,68,Karpicke and Blunt (2011),https://doi.org/10.1126/science.1199327,1, 0.0000390000000000 
+SSRP,69,Kidd and Castano (2013),https://doi.org/10.1126/science.1239918,0, 0.0133000000000000 
+SSRP,70,Kovacs et al. (2010),https://doi.org/10.1126/science.1190792,1, 0.0238000000000000 
+SSRP,71,Lee and Schwarz (2010),https://doi.org/10.1126/science.1186799,0, 0.0133000000000000 
+SSRP,72,Morewedge et al. (2010),https://doi.org/10.1126/science.1195701,1, 0.0092000000000000 
+SSRP,73,Nishi et al. (2015),https://doi.org/10.1038/nature15392,1, 0.0044000000000000 
+SSRP,74,Pyc and Rawson (2010),https://doi.org/10.1126/science.1191465,1, 0.0200000000000000 
+SSRP,75,Ramirez and Beilock (2011),https://doi.org/10.1126/science.1199427,0, 0.0000300000000000 
+SSRP,76,Rand et al. (2012),https://doi.org/10.1038/nature11467,0, 0.0089000000000000 
+SSRP,77,Shah et al. (2012),https://doi.org/10.1126/science.1222426,0, 0.0460000000000000 
+SSRP,78,Sparrow et al. (2011),https://doi.org/10.1126/science.1207745,0, 0.0021000000000000 
+SSRP,79,Wilson et al. (2014),https://doi.org/10.1126/science.1250830,1, 0.0000440000000000 
+ML2,80,Kay et al. (2014),https://doi.org/10.1037/a0034462,0, 0.0500000000000000 
+ML2,81,Alter et al. (2007),https://doi.org/10.1037/0096-3445.136.4.569 ,0, 0.0510000000000000 
+ML2,82,"Graham, Haidt & Nosek (2009)",https://doi.org/10.1037/a0015141,1,  p < 0.001   
+ML2,83,Rottenstreich & Hsee (2001),https://doi.org/10.1111/1467-9280.00334,0, 0.0270000000000000 
+ML2,84,Bauer et al. (2012),https://doi.org/10.1177/0956797611429579,1,  p < 0.001   
+ML2,85,Inbar et al. (2009),https://doi.org/10.1037/a0015960,0, 0.0340000000000000 
+ML2,86,Critcher & Gilovich (2008),https://doi.org/10.1002/bdm.586,0, 0.0350000000000000 
+ML2,87,Van Lange et al. (1997),https://doi.org/10.1037/0022-3514.73.6.1330,0, 0.0080000000000000 
+ML2,88,Hauser et al. (2007),https://doi.org/10.1111/j.1468-0017.2006.00297.x,1,  p < 0.001   
+ML2,89,Anderson et al. (2012),https://doi.org/10.1177/0956797611434537,0, 0.0030000000000000 
+ML2,90,"Ross, Greene & House (1977)",https://doi.org/10.1016/j.enpol.2017.10.005,1,  p < 0.001   
+ML2,91,"Ross, Greene & House (1977)",https://doi.org/10.1016/j.enpol.2017.10.005,1,  p < 0.001   
+ML2,92,Giessner & Schubert (2007),https://doi.org/10.1016/j.obhdp.2006.10.001,0, 0.0320000000000000 
+ML2,93,Tversky & Kahneman (1981),https://doi.org/10.1126/science.7455683,1,  p < 0.001   
+ML2,94,Hauser et al. (2007),https://doi.org/10.1111/j.1468-0017.2006.00297.x,1,  p < 0.001   
+ML2,95,Risen & Gilovich (2008),https://doi.org/10.1037/0022-3514.95.2.293,1, 0.0340000000000000 
+ML2,96,Hsee (1998),https://doi.org/10.1002/(SICI)1099-0771(199806)11:2<107::AID-BDM292>3.0.CO;2-Y,1, 0.0020000000000000 
+ML2,97,Gray & Wegner (2009),https://doi.org/10.1037/a0013748,1, 0.0010000000000000 
+ML2,98,Zhong & Liljenquist (2006),https://doi.org/10.1126/science.1130726,0, 0.0140000000000000 
+ML2,99,"Schwarz, Strack & Mai (1991)",https://doi.org/10.1086/269239,0, 0.0200000000000000 
+ML2,100,Shafir (1993),https://doi.org/10.3758/BF03197186,0, 0.0130000000000000 
+ML2,101,Zaval et al. (2014),https://doi.org/10.1038/nclimate2093,0, 0.0330000000000000 
+ML2,102,Knobe (2003),https://doi.org/10.1037/a0015960,1,  p < 0.001   
+ML2,103,Tversky & Gati (1978),https://doi.org/10.1037/0033-295X.84.4.327,0, 0.0030000000000000 
